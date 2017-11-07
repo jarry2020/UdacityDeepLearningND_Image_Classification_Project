@@ -1,2 +1,2 @@
 # UdacityDeepLearningND_Image_Classification_Project
-Please see details in the jupyter notebook
+Please see the details in the jupyter notebook, "dlnd_image_classification.ipynb".
